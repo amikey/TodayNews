@@ -5,6 +5,8 @@
 
 |               参  数                    |   日间   |   夜间   |           描述              |
 | -------------------------------------  | -------- | ------- | -------------------------- |
+|             windowColor                | #c44943  | #651413 | window 颜色                 |
+|             grayColor240               | #f5f5f5  | #717171 | 灰色 240                    |
 |             grayColor230               | #e6e6e6  | #717171 | 灰色 230                    |
 |             grayColor150               | #969696  | #717171 | 灰色 150                    |
 |        verifiedAgencyTextColor         | #e6b740  | #6f5b10 | 头条认证标题颜色              |
@@ -32,6 +34,12 @@
 
 |               参   数                  |                日间                 |                     夜间                  |           描述         |
 | ------------------------------------- | ----------------------------------- | ---------------------------------------- | ---------------------- |
+|  comment_like_icon_press_16x16_       | comment_like_icon_press_16x16_      | comment_like_icon_press_night_16x16_     | 评论点赞按钮（已赞过）     |
+|  comment_like_icon_16x16_             | comment_like_icon_16x16_            | comment_like_icon_press_night_16x16_     | 评论点赞按钮             |
+|  lefterbackicon_titlebar_24x24_       | lefterbackicon_titlebar_24x24_      | lefterbackicon_titlebar_night_24x24_     | 左上角返回按钮           |
+|  navigation_background_white          | navigation_background_white         | navigation_background_white_night        | 导航栏背景图片（白色）     |
+|  navigation_background                | navigation_background               | navigation_background_night              | 导航栏背景图片（红色）     |
+|  home_no_login_head                   | home_no_login_head                  | home_no_login_head_night                 | 首页导航栏用户未登录图标   |
 |  smallvideo_all_32x32_                | smallvideo_all_32x32_               | smallvideo_all_night_32x32_              | 用户详情动态视频图标      |
 |  morebutton_dynamic_14x8_             | morebutton_dynamic_14x8_            | morebutton_dynamic_night_14x8_           | 用户详情动态更多图标      |
 |  morebutton_dynamic_press_14x8_       | morebutton_dynamic_press_14x8_      | morebutton_dynamic_press_night_14x8_     | 用户详情动态更多选中图标   |
