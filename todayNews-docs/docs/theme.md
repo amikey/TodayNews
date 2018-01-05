@@ -34,6 +34,19 @@
 
 |               参   数                  |                日间                 |                     夜间                  |           描述         |
 | ------------------------------------- | ----------------------------------- | ---------------------------------------- | ---------------------- |
+|  tab_like_press_24x24_                | tab_like_press_24x24_               | tab_like_press_night_24x24_              | 点赞按钮（已赞过）         |
+|  tab_like_24x24_                      | tab_like_24x24_                     | tab_like_night_24x24_                    | 点赞按钮                 |
+|  tab_share_24x24_                     | tab_share_24x24_                    | tab_share_night_24x24_                   | 转发                    |
+|  tabbar_icon_emoji_keyboard_24x24_    | tabbar_icon_emoji_keyboard_24x24_   | tabbar_icon_emoji_keyboard_night_24x24_  | emoji  图标             |
+|  tabbar_icon_@_24x24_                 | tabbar_icon_@_24x24_                | tabbar_icon_@_24x24_                     | @ 图标                  |
+|  toolbar_icon_at_24x24_               | toolbar_icon_at_24x24_              | toolbar_icon_at_night_24x24_             | @ 图标                  |
+|  tabbar_icon_emoji_24x24_             | tabbar_icon_emoji_24x24_            | tabbar_icon_emoji_night_24x24_           | emoji 图标              |
+|  toolbar_icon_emoji_24x24_            | toolbar_icon_emoji_24x24_           | toolbar_icon_emoji_night_24x24_          | emoji 图标              |
+|  toolbar_icon_hashtag_24x24_          | toolbar_icon_hashtag_24x24_         | toolbar_icon_hashtag_night_24x24_        | # 图标                  |
+|  tabbar_icon_#_24x24_                 | tabbar_icon_#_24x24_                | tabbar_icon_#_night_24x24_               | # 图标                  |
+|  toolbar_icon_keyboard_24x24_         | toolbar_icon_keyboard_24x24_        | toolbar_icon_keyboard_night_24x24_       | 键盘图标                 |
+|  toolbar_icon_keyboard_down_24x24_    | toolbar_icon_keyboard_down_24x24_   | toolbar_icon_keyboard_down_night_24x24_  | 键盘图标（带向下的箭头）   |
+|  toolbar_icon_keyboard_up_24x24_      | toolbar_icon_keyboard_up_24x24_     | toolbar_icon_keyboard_up_night_24x24_    | 键盘图标（带向上的箭头）   |
 |  comment_like_icon_press_16x16_       | comment_like_icon_press_16x16_      | comment_like_icon_press_night_16x16_     | 评论点赞按钮（已赞过）     |
 |  comment_like_icon_16x16_             | comment_like_icon_16x16_            | comment_like_icon_press_night_16x16_     | 评论点赞按钮             |
 |  lefterbackicon_titlebar_24x24_       | lefterbackicon_titlebar_24x24_      | lefterbackicon_titlebar_night_24x24_     | 左上角返回按钮           |
