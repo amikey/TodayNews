@@ -5,6 +5,8 @@
 
 |               参  数                    |   日间   |   夜间   |           描述              |
 | -------------------------------------  | -------- | ------- | -------------------------- |
+|       pageIndicatorTintColor           | #d8d8d8  | #464646 | pageControl 颜色            |
+|     currentPageIndicatorTintColor      | #202020  | #f9f9fb | pageControl 当前指示器颜色    |
 |             windowColor                | #c44943  | #651413 | window 颜色                 |
 |             grayColor240               | #f5f5f5  | #717171 | 灰色 240                    |
 |             grayColor230               | #e6e6e6  | #717171 | 灰色 230                    |
