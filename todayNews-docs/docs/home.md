@@ -76,19 +76,27 @@
 }
 ```
 
-## 首页列表接口
+## 首页新闻列表数据接口
 
 - 请求方式：GET
 
 - 请求地址 1：/api/news/feed/v58/?
-- 请求地址 2：/api/news/feed/v64/?
+- 请求地址 2：/api/news/feed/v64/?（也是视频列表接口）
+- 请求地址 2：/api/news/feed/v68/?
+- 请求地址 2：/api/news/feed/v75/?
 
 - 请求参数
 
 | 参数        | 类型     | 是否必须 | 描述    | 示例         |
 | --------- | ------ | ---- | ----- | ---------- |
 | device_id | Int    | N    | 设备 ID | 8800803362 |
-| category  | String | N    | 新闻类别  | video      |
+| category  | String | N    | 新闻类别  | video   |
+| tt_from  | String | N    | 下拉刷新或加载更多  | pull / load_more  |
+| refresh_reason  | Int | N    |   | 1  |
+| strict  | Int | N    |   | 0  |
+| detail  | Int | N    |   | 1  |
+| min_behot_time  | Int | 下拉刷新的参数   |   | 1515848500  |
+| max_behot_time  | Int | 加载更多的参数   |   | 1515848500  |
 
 > 和视频列表数据接口相同， category 为 video
 
@@ -107,27 +115,6 @@
     "action_list":[
         {
             "action":1,
-            "desc":"",
-            "extra":{
-
-            }
-        },
-        {
-            "action":3,
-            "desc":"",
-            "extra":{
-
-            }
-        },
-        {
-            "action":7,
-            "desc":"",
-            "extra":{
-
-            }
-        },
-        {
-            "action":9,
             "desc":"",
             "extra":{
 
